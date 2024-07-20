@@ -15,4 +15,4 @@
    |----------|--------|---|-------------|
    |Josue Martinez Otero|[@Josue-Martinez-Otero](https://github.com/Josue-Martinez-Otero)|Líder de Documentación|✅ Muy Buen Trabajo.|
    |Jonathan Baldemar Ramirez Reyes|[@Jon-ram](https://github.com/Jon-ram)|Documentador |😔 No ha revisar los cambios.|
-   |M.T.I Marco A. Ramírez Hernández|[@UrielMedina0302](https://github.com/UrielMedina0302)|Documentador|😔 No ha revisar los cambios.|
+   |Uriel Medina|[@UrielMedina0302](https://github.com/UrielMedina0302)|Documentador|😔 No ha revisar los cambios.|
